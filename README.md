@@ -1,5 +1,9 @@
 :chart_with_upwards_trend: **My GitHub Stats**
 <p>
+
+<p align="center"><a href="https://github.com/shamimsikder"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Shahab+Hamid%F0%9F%91%8B;A+Self-motivated+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a></p>
+
+
 I'm a Software Engineer with four years of hands-on experience. From brainstorming to launch, I've been deeply involved in developing a variety of projects from scratch.
 
 ✔ Developed multiple projects from start to finish, ensuring they meet high-quality standards and deadlines.
