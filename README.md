@@ -1,6 +1,6 @@
 # Hi, I'm Shahab Hamid 👋
 
-I'm a Software Engineer with four years of hands-on experience, specializing in developing projects from ideation to launch. I focus on delivering high-quality code and innovative solutions through collaborative teamwork. Currently, I'm working at **iClosed** for the past 2 years as a **Senior Software Engineer**.
+I'm a Software Engineer with four years of hands-on experience, specializing in developing projects from ideation to launch. I focus on delivering high-quality code and innovative solutions through collaborative teamwork. Currently, I'm working at **iClosed** for the past 3 years as a **Senior Software Engineer**.
 
 ---
 
