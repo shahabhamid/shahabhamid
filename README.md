@@ -13,23 +13,6 @@ I'm a Software Engineer with four years of hands-on experience, specializing in 
 
 ---
 
-## 💼 Work History
-
-### Senior Software Engineer at iClosed  
-*Past 2 Years*  
-- Driving the development of robust, scalable applications.
-- Leading initiatives to improve code quality and implement best practices.
-- Collaborating with cross-functional teams to meet project deadlines and requirements.
-
-### Freelance Web Developer (Fiverr & Upwork)  
-*5 Years Experience*  
-- Specializing in website development with a focus on modern, responsive design.
-- Delivered numerous custom website projects with strong attention to performance, user experience, and visual appeal.
-- Consistently received positive reviews and high ratings, highlighting reliability, effective communication, and technical excellence.
-- [Fiverr Profile](https://www.fiverr.com/shahab6132?public_mode=true) | [Upwork Profile](https://www.upwork.com/freelancers/~01849be7f09ba37b6b)
-
----
-
 ## 🛠️ Skills
 
 ### Frontend Development
@@ -78,6 +61,23 @@ I'm a Software Engineer with four years of hands-on experience, specializing in 
 
 ---
 
+## 💼 Work History
+
+### Senior Software Engineer at iClosed  
+*Past 3 Years*  
+- Driving the development of robust, scalable applications.
+- Leading initiatives to improve code quality and implement best practices.
+- Collaborating with cross-functional teams to meet project deadlines and requirements.
+
+### Freelance Web Developer (Fiverr & Upwork)  
+*5 Years Experience*  
+- Specializing in website development with a focus on modern, responsive design.
+- Delivered numerous custom website projects with strong attention to performance, user experience, and visual appeal.
+- Consistently received positive reviews and high ratings, highlighting reliability, effective communication, and technical excellence.
+- [Fiverr Profile](https://www.fiverr.com/shahab6132?public_mode=true) | [Upwork Profile](https://www.upwork.com/freelancers/~01849be7f09ba37b6b)
+
+---
+
 ## 💻 Projects
 
 ### Freelance Projects
@@ -120,6 +120,15 @@ I'm a Software Engineer with four years of hands-on experience, specializing in 
   <!-- GitHub Trophies (try alternative theme if needed) -->
   <img src="https://github-profile-trophy.vercel.app/?username=shahabhamid&theme=onedark" alt="GitHub Trophies" />
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Shahabs's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahabhamid&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
   <!-- Profile Views Badge -->
